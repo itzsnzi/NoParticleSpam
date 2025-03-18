@@ -1,0 +1,9 @@
+NoParticleSpam/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/example/noparticlespam/
+│       │       └── NoParticleSpamPlugin.java
+│       └── resources/
+│           └── plugin.yml
+└── build.gradle
